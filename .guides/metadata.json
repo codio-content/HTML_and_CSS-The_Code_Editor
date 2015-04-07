@@ -57,12 +57,28 @@
    "content-file": ".guides/content/Quick-open-files-1369.md"
   },
   {
-   "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
-   "title": "Challenge",
+   "id": "64b1e3c8-aba3-90b4-9490-5daf4411ff14",
+   "title": "File types",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-6a32.md"
+   "content-file": ".guides/content/File-types-64b1.md"
+  },
+  {
+   "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
+   "title": "Simple challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-challenge-6a32.md"
+  },
+  {
+   "id": "2386321-9eca-9211-94fd-5ae5d563db8b",
+   "title": "Tougher challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Tougher-challenge-2386.md"
   }
  ]
 }
