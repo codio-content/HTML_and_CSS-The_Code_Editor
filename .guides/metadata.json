@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "id": "baf9afd8-d240-7e0-dc18-247a44f9c307",
+   "title": "Using the Codio IDE",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-the-Codio-IDE-baf9.md"
+  },
+  {
+   "id": "c9fba181-e2ff-7000-5e73-263a62e8fa34",
+   "title": "Creating files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-files-c9fb.md"
+  },
+  {
+   "id": "53aa9396-8578-522a-eec4-46d21bec9ae4",
+   "title": "Folders",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Folders-53aa.md"
+  },
+  {
+   "id": "f866aa05-b07c-ec0e-7291-213fa2973007",
+   "title": "Dragging files and folders",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-4-f866.md"
+  }
+ ]
+}
