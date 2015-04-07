@@ -30,7 +30,39 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-4-f866.md"
+   "content-file": ".guides/content/Dragging-files-and-folders-f866.md"
+  },
+  {
+   "id": "3c0263f2-2e7e-89a3-c2d4-d4f5b4dfec68",
+   "title": "The Root folder",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Root-folder-3c02.md"
+  },
+  {
+   "id": "e4e52dd3-a1a3-12a5-4d5e-f785ce6eb5c",
+   "title": "Panels",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Panels-e4e5.md"
+  },
+  {
+   "id": "13691c14-8def-5e6b-fb06-9a8d3ba5e96b",
+   "title": "Quick open files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Quick-open-files-1369.md"
+  },
+  {
+   "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-6a32.md"
   }
  ]
 }
