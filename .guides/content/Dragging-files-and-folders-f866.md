@@ -7,7 +7,7 @@ Now we have our folder created, let's move some files into it. The best way to d
 1. Now move another of the files you created in the last section into `somefiles`.
 1. Now move all your files out of `somefiles` back to the lowest level  again. S
 
-## Moving several files at once
+## Moving several items at once
 You can move more than one file at a time.
 
 1. Click on the first file in the group of files.

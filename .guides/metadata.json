@@ -17,12 +17,36 @@
    "content-file": ".guides/content/Creating-files-c9fb.md"
   },
   {
+   "id": "ab26dc5-f7bc-de91-8c75-9581aa1228dd",
+   "title": "Challenge - Create",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge---Create-ab26.md"
+  },
+  {
+   "id": "d96277bd-5d04-30a9-3835-b229d3145b9b",
+   "title": "Renaming files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Renaming-files-d962.md"
+  },
+  {
    "id": "53aa9396-8578-522a-eec4-46d21bec9ae4",
    "title": "Folders",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Folders-53aa.md"
+  },
+  {
+   "id": "40aa85e4-f1c2-1231-7991-e74f1f63ce2d",
+   "title": "Folder challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Folder-challenge-40aa.md"
   },
   {
    "id": "f866aa05-b07c-ec0e-7291-213fa2973007",
@@ -33,12 +57,28 @@
    "content-file": ".guides/content/Dragging-files-and-folders-f866.md"
   },
   {
-   "id": "3c0263f2-2e7e-89a3-c2d4-d4f5b4dfec68",
-   "title": "The Root folder",
+   "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
+   "title": "Simple challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Root-folder-3c02.md"
+   "content-file": ".guides/content/Simple-challenge-6a32.md"
+  },
+  {
+   "id": "2386321-9eca-9211-94fd-5ae5d563db8b",
+   "title": "Tougher challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Tougher-challenge-2386.md"
+  },
+  {
+   "id": "2b63c5dc-3877-391-3dd7-5d5d9cf9a2ad",
+   "title": "Dragging folders",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Dragging-folders-2b63.md"
   },
   {
    "id": "e4e52dd3-a1a3-12a5-4d5e-f785ce6eb5c",
@@ -63,30 +103,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/File-types-64b1.md"
-  },
-  {
-   "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
-   "title": "Simple challenge",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Simple-challenge-6a32.md"
-  },
-  {
-   "id": "2386321-9eca-9211-94fd-5ae5d563db8b",
-   "title": "Tougher challenge",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Tougher-challenge-2386.md"
-  },
-  {
-   "id": "d96277bd-5d04-30a9-3835-b229d3145b9b",
-   "title": "Renaming files",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/New-Section-11-d962.md"
   }
  ]
 }
