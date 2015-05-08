@@ -27,11 +27,6 @@ app.use cookieParser()
 app.use express.static path.join(__dirname, 'public')
 
 
-app.post '/cors', (req, res) ->
-  console.log req.body
-  res.send req.body
-
-  
 app.use '/tests', testRoutes
 
 
