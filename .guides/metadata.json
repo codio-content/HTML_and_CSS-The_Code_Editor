@@ -3,32 +3,64 @@
   {
    "id": "baf9afd8-d240-7e0-dc18-247a44f9c307",
    "title": "Using the Codio IDE",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "00-start"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Using-the-Codio-IDE-baf9.md"
   },
   {
    "id": "c9fba181-e2ff-7000-5e73-263a62e8fa34",
    "title": "Creating files",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "00-start"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Creating-files-c9fb.md"
   },
   {
    "id": "ab26dc5-f7bc-de91-8c75-9581aa1228dd",
    "title": "Challenge - Create",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "01-create-files"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge---Create-ab26.md"
   },
   {
    "id": "d96277bd-5d04-30a9-3835-b229d3145b9b",
    "title": "Renaming files",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "02-rename-files"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Renaming-files-d962.md"
   },
@@ -43,16 +75,33 @@
   {
    "id": "40aa85e4-f1c2-1231-7991-e74f1f63ce2d",
    "title": "Folder challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "03-folders"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Folder-challenge-40aa.md"
   },
   {
    "id": "f866aa05-b07c-ec0e-7291-213fa2973007",
    "title": "Dragging files and folders",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "04-drag",
+    "mary.txt"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Dragging-files-and-folders-f866.md"
   },
@@ -67,16 +116,33 @@
   {
    "id": "2386321-9eca-9211-94fd-5ae5d563db8b",
    "title": "Tougher challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "04-drag-tougher"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Tougher-challenge-2386.md"
   },
   {
    "id": "2b63c5dc-3877-391-3dd7-5d5d9cf9a2ad",
    "title": "Dragging folders",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "05-source",
+    "05-destination"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Dragging-folders-2b63.md"
   },
@@ -104,5 +170,10 @@
    "type": "markdown",
    "content-file": ".guides/content/File-types-64b1.md"
   }
+ ],
+ "theme": "paper",
+ "scripts": [
+  "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+  ".guides/guide-script.js"
  ]
 }

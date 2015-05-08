@@ -32,11 +32,11 @@ walk('../../05-destination', function(err, results) {
   if (err) throw err;
 
   if (results.indexOf('/home/codio/workspace/05-destination/html') == -1)
-    retStr += 'Can\'t find the html folder in the 05-destination. ';
+    retStr += 'Can\'t find the html folder in the 05-destination folder. ';
   if (results.indexOf('/home/codio/workspace/05-destination/img') == -1)
-    retStr += 'Can\'t find the img folder in the 05-destination. ';
+    retStr += 'Can\'t find the img folder in the 05-destination folder. ';
   if (results.indexOf('/home/codio/workspace/05-destination/text') == -1)
-    retStr += 'Can\'t find the text folder in the 05-destination. ';
+    retStr += 'Can\'t find the text folder in the 05-destination folder. ';
   
   if (retStr=='')
     console.log(0, 'Well done!');

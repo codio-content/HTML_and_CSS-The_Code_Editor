@@ -5,5 +5,7 @@ This one is a little harder.
 1. Move any files with the extension `.png` into the `png` folder and those with extensions `.jpg` into the `jpg` folder.
 1. Rename the file called `not-lamb.jpg` to `calf.jpg`.
 
+{Check it!! | custom}(test-drag-tougher)
+
 |||
 

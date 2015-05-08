@@ -8,4 +8,6 @@ Take a look at the folder `04-drag` in the file tree.
 
 Don't forget you can move multiple files with one drag operation using the Ctrl key (PC) or Cmd key (Mac) to select before the drag. Was described in the previous section.
 
+{Check it!! | custom}(test-drag-simple)
+
 |||
