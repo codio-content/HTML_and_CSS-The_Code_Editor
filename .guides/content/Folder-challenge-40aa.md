@@ -6,6 +6,6 @@ Let's check that you have grasped how folders work.
 1. Create a new file called `file1.txt` within `subfolder1`.
 1. Create a new file called `file2.txt` within `subfolder2`.
 
-{Check it!! | custom}(test-folders-1)
+{Check it!! | custom}(test-folder-1)
 
 |||

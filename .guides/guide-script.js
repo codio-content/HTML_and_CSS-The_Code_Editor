@@ -4,7 +4,7 @@ window.addEventListener('codio-button-custom', function (ev) {
   if (codio) {
     codio.setButtonValue(ev.id, codio.BUTTON_STATE.PROGRESS, 'Checking');
     
-    $.post(window.location.origin + ':9500/tests/run', {testid: ev.cmd}, function(data) {
+    var jqxhr = $.post(window.location.origin + ':9500/tests/run', {testid: ev.cmd}, function(data) {
       
       console.log("Data:" + data);
 
@@ -20,9 +20,12 @@ window.addEventListener('codio-button-custom', function (ev) {
       if(!data.success) {
         codio.setButtonValue(ev.id, codio.BUTTON_STATE.FAILURE, data.msg);
       }
-
-    
+      
     });
+    
+    jqxhr.fail(function() {
+      codio.setButtonValue(ev.id, codio.BUTTON_STATE.INVALID, 'Server error'); 
+    });    
     
   }
 });
