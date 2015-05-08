@@ -1,1 +1,1 @@
-node nodemon -e coffee,js,jade server.js &> log.txt
+nodemon -e coffee,js,jade server.js

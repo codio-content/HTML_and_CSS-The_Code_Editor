@@ -4,12 +4,26 @@ window.addEventListener('codio-button-custom', function (ev) {
   if (codio) {
     codio.setButtonValue(ev.id, codio.BUTTON_STATE.PROGRESS, 'Checking');
     
-    $.post(window.location.origin + ':9500/tests/testme', { name: "John", time: "2pm" }, function(data) {
-      console.log(data);
-      codio.setButtonValue(ev.id, codio.BUTTON_STATE.SUCCESS, 'Extremely well done!');
+    $.post(window.location.origin + ':9500/tests/run', {testid: ev.cmd}, function(data) {
+      
+      console.log("Data:" + data);
+
+      // System Error
+      if(data.sysError) {
+        codio.setButtonValue(ev.id, codio.BUTTON_STATE.INVALID, data.msg);        
+      }
+      // Success     
+      if(data.success) {
+        codio.setButtonValue(ev.id, codio.BUTTON_STATE.SUCCESS, data.msg);
+      }
+      // Failed Test
+      if(!data.success) {
+        codio.setButtonValue(ev.id, codio.BUTTON_STATE.FAILURE, data.msg);
+      }
+
+    
     });
     
   }
 });
 
-console.log('test.js script loaded');
