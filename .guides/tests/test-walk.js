@@ -12,7 +12,7 @@ exports.walk = function(dir, done) {
       file = path.resolve(dir, file);
       fs.stat(file, function(err, stat) {
         if (stat && stat.isDirectory()) {
-          walk(file, function(err, res) {
+          exports.walk(file, function(err, res) {
             results = results.concat(res);
             if (!--pending) done(null, results);
           });
