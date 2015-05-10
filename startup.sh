@@ -1,1 +1,1 @@
-nodemon -e coffee,js,jade server.js
+node server.js

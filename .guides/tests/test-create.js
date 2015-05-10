@@ -10,10 +10,10 @@ exports.test = function(callback) {
      }
 
      if (results.indexOf('/home/codio/workspace/01-create-files/first.txt') == -1) {
-       retStr += 'Could not find first.txt. ';
+       retStr += 'Could not find first.txt.\n';
      }
      if (results.indexOf('/home/codio/workspace/01-create-files/second.txt') == -1) {
-       retStr += 'Could not find second.txt. ';
+       retStr += 'Could not find second.txt.\n';
      }
      if (retStr=='') {
        console.log(0, 'Well done!');

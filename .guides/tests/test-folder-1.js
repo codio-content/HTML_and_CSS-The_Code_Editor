@@ -22,19 +22,19 @@ exports.test = function(callback) {
     }
 
     if (!check('/home/codio/workspace/03-folders/subfolder1', results)) {
-      retStr = 'Could not find subfolder1. ';
+      retStr = 'Could not find subfolder1.\n';
     }
     
     if (!check('/home/codio/workspace/03-folders/subfolder2', results)) {
-      retStr += 'Could not find subfolder2. ';
+      retStr += 'Could not find subfolder2.\n';
     }
     
     if (!check('/home/codio/workspace/03-folders/subfolder1/file1.txt', results)) {
-      retStr += 'Could not find file1.txt in subfolder2. ';
+      retStr += 'Could not find file1.txt in subfolder2.\n';
     }
     
     if (!check('/home/codio/workspace/03-folders/subfolder2/file2.txt', results)) {
-      retStr += 'Could not find file2.txt in subfolder2. ';
+      retStr += 'Could not find file2.txt in subfolder2.\n';
     }
     
     if (retStr=='') {

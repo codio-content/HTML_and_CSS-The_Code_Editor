@@ -13,13 +13,13 @@ exports.test = function(callback) {
     }
 
     if (!results || results.indexOf(basedir + 'img/jpg/lamb1.jpg') == -1)
-      retStr += 'lamb1.jpg is not where it should be. ';
+      retStr += 'lamb1.jpg is not where it should be.\n';
     if (!results || results.indexOf(basedir + 'img/jpg/lamb2.jpg') == -1)
-      retStr += 'lamb2.jpg is not where it should be. ';
+      retStr += 'lamb2.jpg is not where it should be.\n';
     if (!results || results.indexOf(basedir + 'img/jpg/not-lamb.jpg') == -1)
-      retStr += 'not-lamb.jpg is not where it should be. ';
+      retStr += 'not-lamb.jpg is not where it should be.\n';
     if (!results || results.indexOf(basedir + 'img/png/lamb3.png') == -1)
-      retStr += 'lamb3.png is not where it should be. ';
+      retStr += 'lamb3.png is not where it should be.\n';
 
     if (retStr=='') {
       console.log(0, 'Well done!');

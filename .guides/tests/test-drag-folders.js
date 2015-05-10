@@ -13,11 +13,11 @@ exports.test = function(callback) {
     }
 
     if (!results || results.indexOf(basedir + '/html') == -1)
-      retStr += 'Can\'t find the html folder in the 05-destination folder. ';
+      retStr += 'Can\'t find the html folder in the 05-destination folder.\n';
     if (!results || results.indexOf(basedir + '/img') == -1)
-      retStr += 'Can\'t find the img folder in the 05-destination folder. ';
+      retStr += 'Can\'t find the img folder in the 05-destination folder.\n';
     if (!results || results.indexOf(basedir + '/text') == -1)
-      retStr += 'Can\'t find the text folder in the 05-destination folder. ';
+      retStr += 'Can\'t find the text folder in the 05-destination folder.\n';
 
     if (retStr=='') {
       console.log(0, 'Well done!');

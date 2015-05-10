@@ -13,10 +13,10 @@ exports.test = function(callback) {
      }
     
     if (results.indexOf('/home/codio/workspace/02-rename-files/calf.jpg') == -1) {
-      retStr += 'Could not find calf.jpg. ';
+      retStr += 'Could not find calf.jpg.\n';
     }
     if (results.indexOf('/home/codio/workspace/02-rename-files/lamb.jpg') == -1) {
-      retStr += 'Could not find lamb.jpg. ';
+      retStr += 'Could not find lamb.jpg.\n';
     }
     
     if (retStr=='') {
