@@ -1,4 +1,3 @@
-
 Now we have our folder created, let's move some files into it. The best way to do this is to drag and drop your files. 
 
 1. Click and hold the mouse button on `mary.txt` and drag the mouse onto your new `somefiles` folder.

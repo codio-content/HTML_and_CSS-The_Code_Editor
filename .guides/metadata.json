@@ -14,7 +14,9 @@
     "00-start"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Using-the-Codio-IDE-baf9.md"
+   "content-file": ".guides/content/Using-the-Codio-IDE-baf9.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "c9fba181-e2ff-7000-5e73-263a62e8fa34",
@@ -30,7 +32,9 @@
     "00-start"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Creating-files-c9fb.md"
+   "content-file": ".guides/content/Creating-files-c9fb.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "ab26dc5-f7bc-de91-8c75-9581aa1228dd",
@@ -46,7 +50,9 @@
     "01-create-files"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge---Create-ab26.md"
+   "content-file": ".guides/content/Challenge---Create-ab26.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "d96277bd-5d04-30a9-3835-b229d3145b9b",
@@ -62,7 +68,9 @@
     "02-rename-files"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Renaming-files-d962.md"
+   "content-file": ".guides/content/Renaming-files-d962.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "53aa9396-8578-522a-eec4-46d21bec9ae4",
@@ -70,7 +78,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Folders-53aa.md"
+   "content-file": ".guides/content/Folders-53aa.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "40aa85e4-f1c2-1231-7991-e74f1f63ce2d",
@@ -86,7 +96,9 @@
     "03-folders"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Folder-challenge-40aa.md"
+   "content-file": ".guides/content/Folder-challenge-40aa.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "f866aa05-b07c-ec0e-7291-213fa2973007",
@@ -103,7 +115,9 @@
     "mary.txt"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Dragging-files-and-folders-f866.md"
+   "content-file": ".guides/content/Dragging-files-and-folders-f866.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
@@ -111,7 +125,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Simple-challenge-6a32.md"
+   "content-file": ".guides/content/Simple-challenge-6a32.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "2386321-9eca-9211-94fd-5ae5d563db8b",
@@ -127,7 +143,9 @@
     "04-drag-tougher"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Tougher-challenge-2386.md"
+   "content-file": ".guides/content/Tougher-challenge-2386.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "2b63c5dc-3877-391-3dd7-5d5d9cf9a2ad",
@@ -144,7 +162,9 @@
     "05-destination"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Dragging-folders-2b63.md"
+   "content-file": ".guides/content/Dragging-folders-2b63.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "e4e52dd3-a1a3-12a5-4d5e-f785ce6eb5c",
@@ -152,7 +172,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Panels-e4e5.md"
+   "content-file": ".guides/content/Panels-e4e5.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "13691c14-8def-5e6b-fb06-9a8d3ba5e96b",
@@ -160,7 +182,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Quick-open-files-1369.md"
+   "content-file": ".guides/content/Quick-open-files-1369.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "64b1e3c8-aba3-90b4-9490-5daf4411ff14",
@@ -168,12 +192,15 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/File-types-64b1.md"
+   "content-file": ".guides/content/File-types-64b1.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "paper",
  "scripts": [
   "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
   ".guides/guide-script.js"
- ]
+ ],
+ "lexikonTopic": ""
 }
