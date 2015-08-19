@@ -1,10 +1,6 @@
 var walk = require('/home/codio/workspace/.guides/tests/test-walk.js');
 var retStr = '';
 
-
-
-exports.test = function(callback) {
-  
   walk.walk('/home/codio/workspace/02-rename-files', function(err, results) {
     retStr = '';      
      if (err) {
@@ -20,14 +16,14 @@ exports.test = function(callback) {
     }
     
     if (retStr=='') {
-      console.log(0, 'Well done!');
-      callback({syserr: false, success: true, msg: 'Well done!!!'});
+      process.stdout.write('Well done!!!')
+      process.exit(0);
     }
     else {
-      console.log(1, retStr);
-      callback({syserr: false, success: false,  msg: retStr});
+      process.stdout.write(retStr)
+      process.exit(1);
     }
     
   });
-}
+
 

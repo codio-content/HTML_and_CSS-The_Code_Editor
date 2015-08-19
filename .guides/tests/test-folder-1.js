@@ -11,8 +11,6 @@ function check(str, results) {
   return false;
 }
 
-exports.test = function(callback) {
-
   walk.walk('/home/codio/workspace/03-folders', function(err, results) {
 
     retStr = '';      
@@ -38,16 +36,15 @@ exports.test = function(callback) {
     }
     
     if (retStr=='') {
-      console.log(0, 'Well done!');
-      callback({syserr: false, success: true, msg: 'Well done!!!'});
+      process.stdout.write('Well done!!!')
+      process.exit(0);
     }
     else {
-      console.log(1, retStr);
-      callback({syserr: false, success: false,  msg: retStr});
+      process.stdout.write(retStr)
+      process.exit(1);
     }
 
   });
-  
-}
+
 
 
