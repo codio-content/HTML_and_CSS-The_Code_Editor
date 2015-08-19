@@ -2,7 +2,7 @@ This module will teach you how to use an IDE (Integrated Development Environment
 
 All programmers use IDEs of different types. Some are installed on your PC or Mac whereas Codio is a web based IDE.
 
-![](.guides/img/ide.jpg)
+![](.guides/img/ide.png)
 
 Here are things you can do with an IDE
 
