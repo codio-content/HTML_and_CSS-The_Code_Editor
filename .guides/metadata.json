@@ -111,8 +111,7 @@
    ],
    "layout": "",
    "path": [
-    "04-drag",
-    "mary.txt"
+    "04-drag"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Dragging-files-and-folders-f866.md",
@@ -122,8 +121,16 @@
   {
    "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
    "title": "Simple challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "04-drag-challenge"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Simple-challenge-6a32.md",
    "chapter": false,
@@ -169,8 +176,16 @@
   {
    "id": "e4e52dd3-a1a3-12a5-4d5e-f785ce6eb5c",
    "title": "Panels",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "04-drag"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Panels-e4e5.md",
    "chapter": false,
@@ -193,6 +208,16 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/File-types-64b1.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "dd7137ba-ad8-c825-20e1-ddbe44af9a33",
+   "title": "That's all folks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks--dd71.md",
    "chapter": false,
    "reset": []
   }

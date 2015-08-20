@@ -5,7 +5,7 @@ Open up 2 files now.
 ## Dragging files between panels
 You can drag your files between panels.
 
-1. Click in the little tab above your code and drag it over to the panel on this side. When you do, it will open up and this Guide will be hidden. You will need to click on it to get it back, or close the file down.
+1. Click in the little tab above your file and drag it over to the panel on this side. When you do, it will open up and this Guide will be hidden. You will need to click on it to get it back, or close the file down.
 1. Drag it back again to the lef hand side.
 1. Get comfortable with this by opening, dragging and closing more files.
 

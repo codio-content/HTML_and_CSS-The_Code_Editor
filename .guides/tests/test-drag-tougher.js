@@ -14,8 +14,8 @@ var retStr = '';
       retStr += 'lamb1.jpg is not where it should be.\n';
     if (!results || results.indexOf(basedir + 'img/jpg/lamb2.jpg') == -1)
       retStr += 'lamb2.jpg is not where it should be.\n';
-    if (!results || results.indexOf(basedir + 'img/jpg/not-lamb.jpg') == -1)
-      retStr += 'not-lamb.jpg is not where it should be.\n';
+    if (!results || results.indexOf(basedir + 'img/jpg/calf.jpg') == -1)
+      retStr += 'calf.jpg is not where it should be.\n';
     if (!results || results.indexOf(basedir + 'img/png/lamb3.png') == -1)
       retStr += 'lamb3.png is not where it should be.\n';
 

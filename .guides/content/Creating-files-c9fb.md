@@ -12,6 +12,6 @@ Right click in line which says `00-start` and a popup menu will appear.
 1. Type something into your new file.
 1. Now close the file by clicking the `x` icon at the top. 
 1. Then open both `mary.txt` and your newly created file. You can see how you can move between each file by clicking at the top.
-1. Close them both down.
+1. Close them both now.
 
 

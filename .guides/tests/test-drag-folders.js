@@ -1,20 +1,22 @@
-var walk = require('/home/codio/workspace/.guides/tests/test-walk.js');
+var fs = require('fs');
 var retStr = '';  
 
 var basedir = '/home/codio/workspace/05-destination'  
-walk.walk(basedir, function(err, results) {
 
-  retStr = '';     
+fs.readdir(basedir, function(err, results) {
+  
+  retStr = '';    
+  
   if (err) {
-    console.log(err)
-    callback({syserr: true, success: false, msg: err});
+    process.stdout.write(err)
+    process.exit(1);
   }
 
-  if (!results || results.indexOf(basedir + '/html') == -1)
+  if (!results || results.indexOf('html') == -1)
     retStr += 'Can\'t find the html folder in the 05-destination folder.\n';
-  if (!results || results.indexOf(basedir + '/img') == -1)
+  if (!results || results.indexOf('img') == -1)
     retStr += 'Can\'t find the img folder in the 05-destination folder.\n';
-  if (!results || results.indexOf(basedir + '/text') == -1)
+  if (!results || results.indexOf('text') == -1)
     retStr += 'Can\'t find the text folder in the 05-destination folder.\n';
 
   if (retStr=='') {
@@ -25,5 +27,6 @@ walk.walk(basedir, function(err, results) {
     process.stdout.write(retStr)
     process.exit(1);
   }
+  
+})
 
-});

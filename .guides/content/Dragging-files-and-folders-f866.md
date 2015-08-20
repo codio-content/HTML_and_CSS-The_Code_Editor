@@ -1,10 +1,11 @@
-Now we have our folder created, let's move some files into it. The best way to do this is to drag and drop your files. 
+In the previous challenge we have created two folders and two files. Let's move our files around.
 
-1. Click and hold the mouse button on `mary.txt` and drag the mouse onto your new `somefiles` folder.
-1. You will see that `mary.txt` has vanished. That's meant to happen.
-1. Now click on the `somefiles` folder and there is `mary.txt`. Go ahead and open it.
-1. Now move another of the files you created in the last section into `somefiles`.
-1. Now move all your files out of `somefiles` back to the lowest level  again. S
+First create one folder called `somefiles` inside `04-drag`.
+
+1. Click and hold the mouse button on `mary1.txt` and drag the mouse onto the other `somefiles` folder.
+1. You will see that `mary1.txt` has vanished. That's meant to happen.
+1. Now click on the `somefiles` folder and there is `mary1.txt`. Go ahead and open it.
+1. Now move `mary2.txt`  into `somefiles`.
 
 ## Moving several items at once
 You can move more than one file at a time.
