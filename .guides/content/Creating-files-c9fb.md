@@ -3,7 +3,7 @@ Let's start off by creating a file or two. You'll be doing this yourself.
 If you look in the far left side, you'll see the 'File Tree'. We have put a simple file `mary.txt` there to start with. Go ahead and open it up.
 
 ## Right Click
-Right click in line which says `00-start` and a popup menu will appear.
+Right click on the line which says `00-start` and a popup menu will appear.
 
 ![](.guides/img/new-file-tree.png)
 

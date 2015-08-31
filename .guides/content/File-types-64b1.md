@@ -1,4 +1,4 @@
-Something it is very important to understand is the way files are named.
+Something that it is very important to understand is the way files are named.
 
 If you have used Microsoft Word or Excel, you will be familiar with their specific extensions (`.doc` or `.docx` and `.xlsx`).
 
@@ -14,9 +14,10 @@ filename.extension
 You will choose `filename` so it is descriptive and helps you guess at what it contained in the file. 
 
 ## Extension
-The `extension` part of the file name, however, depends on the type of file.
+The `extension` part of the file name however, depends on the type of file.
 
-- `html` files have the extension `.html`
+
+- Html files have the extension `.html`
 - Image files have extensions according to the type of image, so PNG files have the extension `.png` whereas JPEG files have the extension `.jpg` or sometimes `.jpeg`.
 - Text files typically have an extension `.txt`
 
