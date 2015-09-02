@@ -2,6 +2,6 @@ You can think of a *folder*, also known as a *directory*, as a filing drawer. It
 
 ![](.guides/img/folders.png)
 
-Notice the one labeled **Root** at the top. This is the *root folder* and is the topmost folders. 
+Notice the one labeled **Root** at the top. This is the *root folder* and is the topmost one. 
 
 Folders can contain files, but they can also contain other folders.
