@@ -16,7 +16,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Using-the-Codio-IDE-baf9.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c9fba181-e2ff-7000-5e73-263a62e8fa34",
@@ -34,7 +35,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Creating-files-c9fb.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "ab26dc5-f7bc-de91-8c75-9581aa1228dd",
@@ -52,7 +54,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge---Create-ab26.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "d96277bd-5d04-30a9-3835-b229d3145b9b",
@@ -70,7 +73,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Renaming-files-d962.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "53aa9396-8578-522a-eec4-46d21bec9ae4",
@@ -86,7 +90,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Folders-53aa.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "40aa85e4-f1c2-1231-7991-e74f1f63ce2d",
@@ -104,7 +109,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Folder-challenge-40aa.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f866aa05-b07c-ec0e-7291-213fa2973007",
@@ -122,7 +128,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Dragging-files-and-folders-f866.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
@@ -140,7 +147,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Simple-challenge-6a32.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2386321-9eca-9211-94fd-5ae5d563db8b",
@@ -158,7 +166,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Tougher-challenge-2386.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2b63c5dc-3877-391-3dd7-5d5d9cf9a2ad",
@@ -177,7 +186,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Dragging-folders-2b63.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "e4e52dd3-a1a3-12a5-4d5e-f785ce6eb5c",
@@ -195,17 +205,22 @@
    "type": "markdown",
    "content-file": ".guides/content/Panels-e4e5.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "13691c14-8def-5e6b-fb06-9a8d3ba5e96b",
    "title": "Quick open files",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "04-drag"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Quick-open-files-1369.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "64b1e3c8-aba3-90b4-9490-5daf4411ff14",
@@ -223,17 +238,20 @@
    "type": "markdown",
    "content-file": ".guides/content/File-types-64b1.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "dd7137ba-ad8-c825-20e1-ddbe44af9a33",
    "title": "That's all folks",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/That-s-all-folks-dd71.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "paper",
