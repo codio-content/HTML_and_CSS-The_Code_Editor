@@ -1,0 +1,98 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-2080426867",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Dragging folders",
+   "instructions": "On the left hand side, you will see 2 folders, `05-source` and `05-destination`.\n\n1. You should move all the folders and their files from the source folder to the destination folder by dragging.\n1. Try to do this in a single drag operation rather than moving each folder one by one.",
+   "command": "node .guides/tests/test-drag-folders.js",
+   "points": 2
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2325687155",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Thougher challenge",
+   "instructions": "1. Inside the `img` folder, create two further folders `png` and `jpg`.\n1. Move any files with the extension `.png` into the `png` folder and those with extensions `.jpg` into the `jpg` folder.\n1. Rename the file called `not-lamb.jpg` to `calf.jpg`.",
+   "command": "node .guides/tests/test-drag-tougher.js",
+   "points": 4
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2512451286",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Create files",
+   "instructions": "In the file tree you will see a folder called `01-create-files`.\n\n1. Create a new file called `first.txt`\n1. Type 'Hello there' inside it.\n1. Create another file called `second.txt`\n1. Type 'Goodbye' inside that one.\n\nPress the button below to make sure you did it correctly.",
+   "command": "node .guides/tests/test-create.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4050935051",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Working with folders",
+   "instructions": "1. Within the folder `03-folders`, create a folder called `subfolder1`.\n1. Create another one called `subfolder2`.\n1. Create a new file called `file1.txt` within `subfolder1`.\n1. Create a new file called `file2.txt` within `subfolder2`.",
+   "command": "node .guides/tests/test-folder-1.js",
+   "points": 2
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4203489158",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Rename files",
+   "instructions": "In the folder `02-rename-files` you will find 2 files, `image1.jpg` and `image2.jpg`.\n\n1. Open each file to see what the image is.\n1. Rename each file to be `calf.jpg` or `lamb.jpg`. It will be very clear which one should get which name if you open them.",
+   "command": "node .guides/tests/test-rename.js",
+   "points": 2
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-893441293",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Dragging files",
+   "instructions": "Take a look at the folder `04-drag-challenge` in the file tree.\n\n1. If you're not sure which file belongs where, open them up and see if it is an image, a text file or an html file.\n1. Move each of the files in the `everything` folder into the folder (`html`, `img` or `text`) that best suits its file type.\n\nDon’t forget you can move multiple files with one drag operation using the Ctrl key (PC) or Cmd key (Mac) to select before the drag. This was described in the previous section.",
+   "command": "node .guides/tests/test-drag-simple.js",
+   "points": 2
+  }
+ }
+]
