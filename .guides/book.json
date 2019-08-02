@@ -1,0 +1,89 @@
+{
+ "name": "HTML_and_CSS-The_Code_Editor",
+ "children": [
+  {
+   "title": "Using the Codio IDE",
+   "id": "baf9afd8-d240-7e0-dc18-247a44f9c307",
+   "pageId": "baf9afd8-d240-7e0-dc18-247a44f9c307",
+   "type": "page"
+  },
+  {
+   "title": "Creating files",
+   "id": "c9fba181-e2ff-7000-5e73-263a62e8fa34",
+   "pageId": "c9fba181-e2ff-7000-5e73-263a62e8fa34",
+   "type": "page"
+  },
+  {
+   "title": "Challenge - Create",
+   "id": "ab26dc5-f7bc-de91-8c75-9581aa1228dd",
+   "pageId": "ab26dc5-f7bc-de91-8c75-9581aa1228dd",
+   "type": "page"
+  },
+  {
+   "title": "Renaming files",
+   "id": "d96277bd-5d04-30a9-3835-b229d3145b9b",
+   "pageId": "d96277bd-5d04-30a9-3835-b229d3145b9b",
+   "type": "page"
+  },
+  {
+   "title": "Folders",
+   "id": "53aa9396-8578-522a-eec4-46d21bec9ae4",
+   "pageId": "53aa9396-8578-522a-eec4-46d21bec9ae4",
+   "type": "page"
+  },
+  {
+   "title": "Folder challenge",
+   "id": "40aa85e4-f1c2-1231-7991-e74f1f63ce2d",
+   "pageId": "40aa85e4-f1c2-1231-7991-e74f1f63ce2d",
+   "type": "page"
+  },
+  {
+   "title": "Dragging files and folders",
+   "id": "f866aa05-b07c-ec0e-7291-213fa2973007",
+   "pageId": "f866aa05-b07c-ec0e-7291-213fa2973007",
+   "type": "page"
+  },
+  {
+   "title": "Simple challenge",
+   "id": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
+   "pageId": "6a324f1e-501b-e35e-7c6d-8363a8c586cb",
+   "type": "page"
+  },
+  {
+   "title": "Tougher challenge",
+   "id": "2386321-9eca-9211-94fd-5ae5d563db8b",
+   "pageId": "2386321-9eca-9211-94fd-5ae5d563db8b",
+   "type": "page"
+  },
+  {
+   "title": "Dragging folders",
+   "id": "2b63c5dc-3877-391-3dd7-5d5d9cf9a2ad",
+   "pageId": "2b63c5dc-3877-391-3dd7-5d5d9cf9a2ad",
+   "type": "page"
+  },
+  {
+   "title": "Panels",
+   "id": "e4e52dd3-a1a3-12a5-4d5e-f785ce6eb5c",
+   "pageId": "e4e52dd3-a1a3-12a5-4d5e-f785ce6eb5c",
+   "type": "page"
+  },
+  {
+   "title": "Quick open files",
+   "id": "13691c14-8def-5e6b-fb06-9a8d3ba5e96b",
+   "pageId": "13691c14-8def-5e6b-fb06-9a8d3ba5e96b",
+   "type": "page"
+  },
+  {
+   "title": "File types",
+   "id": "64b1e3c8-aba3-90b4-9490-5daf4411ff14",
+   "pageId": "64b1e3c8-aba3-90b4-9490-5daf4411ff14",
+   "type": "page"
+  },
+  {
+   "title": "That's all folks",
+   "id": "dd7137ba-ad8-c825-20e1-ddbe44af9a33",
+   "pageId": "dd7137ba-ad8-c825-20e1-ddbe44af9a33",
+   "type": "page"
+  }
+ ]
+}
